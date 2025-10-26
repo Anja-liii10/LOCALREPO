@@ -1,0 +1,33 @@
+
+body{
+    background-image: url(birthday.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 20px;
+}
+div{
+    font-weight: bold;
+    font-size: medium;
+
+
+    /* border-color: aqua;
+    border:  3px , solid , black; */
+    /* height : 250px;
+    width : 250px;
+    box-shadow: inset 10px 10px 20px rebeccapurple;
+    margin: 20px; */
+    text-align: center;
+    color: rgb(219, 219, 29);
+    text-decoration:double rgb(247, 151, 151);
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: rgb(247, 151, 151);
+    overflow: hidden;
+
+    text-transform:capitalize;
+    text-shadow: 5px 5px 10px pink, -5px -5px -10px rgb(58, 55, 55) ;
+    
+}
+
